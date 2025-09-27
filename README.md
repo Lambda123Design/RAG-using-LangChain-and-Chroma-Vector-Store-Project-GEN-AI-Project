@@ -1,4 +1,4 @@
-# RAG-using-LangChain-and-Chroma-Vector-Store-Project-GEN-AI-Project
+# RAG-using-LangChain-and-Chroma-Vector-Store-Project-GENAI-Project
 This Repository contains my working files of "RAG Based Chatbot using LangChain and Chroma Vector Store Project", an Gen AI Project
 
 (i) Utilized LangChain and Groq API for the project
